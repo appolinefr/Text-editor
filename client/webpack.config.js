@@ -3,19 +3,6 @@ const WebpackPwaManifest = require("webpack-pwa-manifest");
 const path = require("path");
 const { InjectManifest } = require("workbox-webpack-plugin");
 
-// TODO: Add and configure workbox plugins for a service worker and manifest file.
-// // TODO: Add CSS loaders and babel to webpack.
-// Uses IndexedDB to create an object store and includes both GET and PUT methods
-
-// The application works without an internet connection
-
-// Automatically saves content inside the text editor when the DOM window is unfocused
-
-// Create a service worker with workbox that Caches static assets
-
-// Application must have a generated manifest.json using the WebpackPwaManifest plug-in
-
-// Can be installed as a Progressive Web Application
 
 module.exports = () => {
   return {

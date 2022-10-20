@@ -7,6 +7,7 @@
 - [What I have learned](#what-i-have-learned)
 - [Challenges](#challenges)
 - [Link to deployed application](#link-to-deployed-application)
+- [Screenshot of deployed application](#screenshot-of-deployed-application)
 
 ## Description of Project
 
@@ -36,3 +37,8 @@ Implementing the caching strategy was initally a challenge but Workbox and its s
 ### Link to deployed application
 
 [Link to deployed application](https://vast-shelf-62789.herokuapp.com/)
+
+### Screenshot of deployed application
+
+![Screenshot of application](./client/src/images/deployed-application.png)
+
